@@ -1,17 +1,8 @@
-# 中国科学技术大学简历LaTeX模板
+# 通用的简历LaTeX模板
 
-[![中文](https://img.shields.io/badge/文档-中文-blue.svg)](readme.md)
-[![English](https://img.shields.io/badge/Documentation-English-blue.svg)](README.md)
-[![LaTeX](https://img.shields.io/badge/编译-LaTeX-orange.svg)](https://www.latex-project.org/)
-[![USTC](https://img.shields.io/badge/学校-USTC-red.svg)](https://www.ustc.edu.cn/)
-
-一个专为**中国科学技术大学**学生和校友设计的专业求职简历LaTeX模板，支持中英文混合排版，适用于各类求职申请、学术申请和奖学金申请。
+一个专为应届毕业生设计的专业求职简历LaTeX模板，适用于各类求职申请、学术申请和奖学金申请。
 
 ---
-
-**🔗 English Version**: [View English Documentation](README_EN.md)
-
-
 
 ## 📋 项目特点
 
@@ -55,8 +46,7 @@ USTC_Resume/
 │   └── zh_CN-Adobefonts_external.sty  # 中文字体支持
 ├── fonts/              # 字体目录（无需手动处理）
 ├── image/              # 图片目录
-│   ├── identification_photo.jpeg    # 证件照
-│   └── logo.png                    # 学校logo
+│   └── suanligongfang.png          # 证件照
 ├── readme_image/
 │   └── example.png                 # 示例图片
 └── readme.md           # 项目说明文档
@@ -64,16 +54,10 @@ USTC_Resume/
 
 ## 🖼️ 图片自定义
 
-### 1. 更换证件照
-
 将您的证件照替换到 `image/identification_photo.jpeg`，支持以下格式：
 - JPEG/JPG
 - PNG
 - PDF
-
-### 2. 更换学校logo
-
-如需更换学校logo，请将新logo文件放置到 `image/logo.png`，建议尺寸为 600x300 像素。
 
 ## 📝 简历内容结构
 
@@ -85,15 +69,6 @@ USTC_Resume/
 4. **实习经历** - 企业实习、项目经验
 5. **科研经历** - 科研项目、学术成果
 6. **技术能力** - 编程语言、工具技能、语言能力
-
-## 📂 USTC LaTeX网站使用
-
-1. **下载项目**：点击 "Code" → "Download ZIP" 下载完整项目
-2. **上传到USTC LaTeX网站**：
-   - 访问 [USTC LaTeX在线编辑平台](https://latex.ustc.edu.cn/login)
-   - 创建新项目
-   - 上传下载的ZIP文件
-3. **编译生成**：在网站中直接编译生成PDF简历。注意编译器选择 XeLaTeX
 
 ## 📋 注意事项
 
@@ -109,4 +84,4 @@ USTC_Resume/
 ---
 
 
-**关键词**：中科大, 中国科学技术大学, 简历, resume, CV, USTC, 求职, LaTeX, 简历模板, 学术简历, 求职申请, 硕士简历, 本科简历, 科研简历, 实习简历
+**关键词**：简历, resume, CV, LLM, Agent, Infra, 算法, 开发, 后端, 求职, LaTeX, 简历模板, 学术简历, 求职申请, 硕士简历, 本科简历, 科研简历, 实习简历
