@@ -23,7 +23,7 @@
 
 - **LaTeX编译器**：推荐使用 **XeLaTeX** 或 **LuaLaTeX**
 - **字体支持**：模板已内置中文字体支持
-- **推荐编辑器**：TeXstudio、VS Code + LaTeX Workshop、USTC Overleaf(直接下载Zip，上传项目即可)
+- **推荐编辑器**：TeXstudio、VS Code + LaTeX Workshop、Overleaf(直接下载Zip，上传项目即可)
 
 ### 2. 编译步骤
 
